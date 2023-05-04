@@ -190,7 +190,7 @@
 - [xtanyu/parsing-mini](https://github.com/xtanyu/parsing-mini) - 短视频去水印小程序（[含Java版本服务端](https://github.com/xtanyu/ToolApi)）
 - [realyao/Focus-clock ★100+](https://github.com/realyao/WXminiprogram-Focus-clock) - ✅时间管理小程序：专注时钟（集成时间管理、目标计划、Todo待办、白噪声。易部署 适合新手学习入门）
 - [mark420524/photo](https://github.com/mark420524/photo) - 证件照小程序
-
+- [fxxqq/weather-and-house-loan](https://github.com/fxxqq/weather-and-house-loan) -天气查询，月供计算小程序
 ### 数据接口有问题
 
 - [EastWorld/wechat-app-mall ★3000+](https://github.com/EastWorld/wechat-app-mall) - 微信小程序商城
